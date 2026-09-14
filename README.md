@@ -1,5 +1,8 @@
 # HSK Mouse — an Omarchy plugin
 
+> **Archived.** This project is no longer maintained. Development has moved to
+> [mouse-CTRL](https://github.com/keasbeexd/mouse-ctrl) — go there instead.
+
 Battery, DPI, polling rate and sensor settings for the **G-Wolves HSK Pro 4K**,
 in the Omarchy bar.
 
